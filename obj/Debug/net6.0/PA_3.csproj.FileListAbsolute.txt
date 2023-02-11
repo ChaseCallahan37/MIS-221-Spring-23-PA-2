@@ -1,0 +1,15 @@
+C:\Users\chase\OneDrive\Documents\Projects\Professional\TA\Spring_23\coded_solutions\PA\PA_3\bin\Debug\net6.0\PA_3.exe
+C:\Users\chase\OneDrive\Documents\Projects\Professional\TA\Spring_23\coded_solutions\PA\PA_3\bin\Debug\net6.0\PA_3.deps.json
+C:\Users\chase\OneDrive\Documents\Projects\Professional\TA\Spring_23\coded_solutions\PA\PA_3\bin\Debug\net6.0\PA_3.runtimeconfig.json
+C:\Users\chase\OneDrive\Documents\Projects\Professional\TA\Spring_23\coded_solutions\PA\PA_3\bin\Debug\net6.0\PA_3.dll
+C:\Users\chase\OneDrive\Documents\Projects\Professional\TA\Spring_23\coded_solutions\PA\PA_3\bin\Debug\net6.0\PA_3.pdb
+C:\Users\chase\OneDrive\Documents\Projects\Professional\TA\Spring_23\coded_solutions\PA\PA_3\obj\Debug\net6.0\PA_3.csproj.AssemblyReference.cache
+C:\Users\chase\OneDrive\Documents\Projects\Professional\TA\Spring_23\coded_solutions\PA\PA_3\obj\Debug\net6.0\PA_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chase\OneDrive\Documents\Projects\Professional\TA\Spring_23\coded_solutions\PA\PA_3\obj\Debug\net6.0\PA_3.AssemblyInfoInputs.cache
+C:\Users\chase\OneDrive\Documents\Projects\Professional\TA\Spring_23\coded_solutions\PA\PA_3\obj\Debug\net6.0\PA_3.AssemblyInfo.cs
+C:\Users\chase\OneDrive\Documents\Projects\Professional\TA\Spring_23\coded_solutions\PA\PA_3\obj\Debug\net6.0\PA_3.csproj.CoreCompileInputs.cache
+C:\Users\chase\OneDrive\Documents\Projects\Professional\TA\Spring_23\coded_solutions\PA\PA_3\obj\Debug\net6.0\PA_3.dll
+C:\Users\chase\OneDrive\Documents\Projects\Professional\TA\Spring_23\coded_solutions\PA\PA_3\obj\Debug\net6.0\refint\PA_3.dll
+C:\Users\chase\OneDrive\Documents\Projects\Professional\TA\Spring_23\coded_solutions\PA\PA_3\obj\Debug\net6.0\PA_3.pdb
+C:\Users\chase\OneDrive\Documents\Projects\Professional\TA\Spring_23\coded_solutions\PA\PA_3\obj\Debug\net6.0\PA_3.genruntimeconfig.cache
+C:\Users\chase\OneDrive\Documents\Projects\Professional\TA\Spring_23\coded_solutions\PA\PA_3\obj\Debug\net6.0\ref\PA_3.dll
