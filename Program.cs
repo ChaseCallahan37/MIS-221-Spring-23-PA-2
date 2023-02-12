@@ -1,4 +1,6 @@
-﻿string userInput = "";
+﻿System.Console.WriteLine("I am in currency");
+
+string userInput = "";
 while (userInput != "3")
 {
     userInput = MenuOptions();
