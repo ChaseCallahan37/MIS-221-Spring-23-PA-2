@@ -204,62 +204,69 @@ static double GetMoneyAmt()
     return amount;
 }
 
-//Methods for conversions to and from USD
+// const variables responsible for holding currency conversion rate for USD
+const double CANADIAN = 1.34;
+const double EURO = .93;
+const double RUPEE = 82.24;
+const double YEN = 131.2;
+const double PESO = 18.98;
+const double POUND = .83;
 
+//Methods for conversions to and from USD
 static double CanadianToUs(double amt)
 {
-    return amt / 1.34;
+    return amt / CANADIAN;
 }
 
 static double EuroToUs(double amt)
 {
-    return amt / .93;
+    return amt / EURO;
 }
 
 static double RupeeToUs(double amt)
 {
-    return amt / 82.24;
+    return amt / RUPEE;
 }
 
 static double YenToUs(double amt)
 {
-    return amt / 131.20;
+    return amt / YEN;
 }
 
 static double PesoToUs(double amt)
 {
-    return amt / 18.98;
+    return amt / PESO;
 }
 
 static double PoundToUs(double amt)
 {
-    return amt / .83;
+    return amt / POUND;
 }
 
 static double UsToEuro(double amt)
 {
-    return amt * .93;
+    return amt * EURO;
 }
 
 static double UsToCandian(double amt)
 {
-    return amt * 1.34;
+    return amt * CANADIAN;
 }
 static double UsToPeso(double amt)
 {
-    return amt * 18.98;
+    return amt * PESO;
 }
 static double UsToPound(double amt)
 {
-    return amt * .83;
+    return amt * POUND;
 }
 static double UsToRupee(double amt)
 {
-    return amt * 82.24;
+    return amt * RUPEE;
 }
 static double UsToYen(double amt)
 {
-    return amt * 131.20;
+    return amt * YEN;
 }
 
 //Method responsible for flow of control for POS
